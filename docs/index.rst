@@ -6,11 +6,6 @@ Introduction
 
 Managing your security software account is essential for keeping your devices protected and running smoothly. PC Matic is a well-known security solution that helps users safeguard their systems against malware, viruses, and performance issues. Accessing your PC Matic account properly allows you to manage subscriptions, monitor protection status, and configure important settings.
 
-.. image:: login-now.gif
-   :alt: My Project Logo
-   :width: 400px
-   :align: center
-   :target: https://aclogportal.com/
 
 This guide provides a complete step-by-step explanation of how to log in to your PC Matic account, set it up, troubleshoot common issues, and ensure a secure experience.
 
